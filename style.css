@@ -1,6 +1,7 @@
 .top{
   background-color: blue;
   height: 25em;
+  border-radius: 20px;
 }
 
 .right{
@@ -15,4 +16,16 @@
   display: inline;
 }
 
-.
+ul{
+  list-style-type: none;
+}
+
+.right > ul{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 20px;
+} 
+
+img{
+  padding-top: 10px;
+}
