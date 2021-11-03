@@ -1,3 +1,9 @@
+h1{
+  text-align: center;
+  font-size: 40px;
+  height: 0px;
+}
+
 .top{
   background-color: blue;
   height: 25em;
@@ -31,4 +37,59 @@ ul{
 }
 img{
   padding-top: 10px;
+}
+
+h2{
+  color: rgb(226, 131, 43);
+}
+
+p{
+  
+  color: rgb(251, 219, 158);
+}
+
+.middle{
+  
+  margin-top: 20px;
+  padding: 20px;
+  background-color:violet;
+  height: flex;
+  border-radius: 20px;
+
+}
+
+.footer{
+  border-radius: 20px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #edf5f1;
+  padding-top: 5%;
+}
+
+
+.vaccination2{
+  padding: 20px;
+  background-color: blue;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+.care2{
+  padding: 20px;
+  background-color: blue;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+.love2{
+  padding: 20px;
+  background-color: blue;
+  margin: 20px;
+  border-radius: 20px;
+  
 }
