@@ -1,7 +1,7 @@
 # smart-pet
 pet website
 
-#Description
+# Description
 A blog on pets
 
 # LICENCE
